@@ -1,4 +1,4 @@
-package org.example.ex01_RA_Basic;
+package org.example.ex01_RA_Basic.ex01_RA_Basic;
 
 public class APITesting003_NoDesignPattern {
     public static void main(String[] args) {
